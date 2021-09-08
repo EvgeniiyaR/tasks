@@ -11,8 +11,7 @@
 """
 
 a = input().split(' ')
-new_list = []
-other_list = []
+new_list, other_list = [], []
 for x in a:
     if not other_list:
         other_list.append(x)
