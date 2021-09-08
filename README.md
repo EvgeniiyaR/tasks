@@ -1,1 +1,1 @@
-# tasks
+Задачи по Python
